@@ -1,1 +1,1 @@
-# CodingGeeks-DTU-Hackathon
+# Parul Let's Hack (India Tour S2)
